@@ -1,6 +1,8 @@
+###################
+# Graphs
+###################
+
 # Adjascency List representation in Python
-
-
 class AdjNode:
     def __init__(self, value):
         self.vertex = value
