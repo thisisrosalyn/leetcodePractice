@@ -1,5 +1,6 @@
 ###################
 # Graphs
+# Python can always use dictionary to implement Adjacency list
 ###################
 
 # Adjascency List representation in Python
